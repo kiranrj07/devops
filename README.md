@@ -1,3 +1,3 @@
 # devops
 This repo is used for devops trainings <br>
-Author - Kiran raj P
+Author - Kiran raj khathi
